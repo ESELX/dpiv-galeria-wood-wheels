@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_image: ../attachments/hero.jpg
+hero_title: Wood Wheels
+hero_subtitle: Daniela Noro · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Wood Wheels
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
