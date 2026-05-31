@@ -15,7 +15,7 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Wood Wheels
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -51,7 +51,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/WoodWheels/">
-    <img src="produtos/WoodWheels/attachments/hero.jpg" alt="" />
+    <img src="produtos/WoodWheels/attachments/Brinquedo_01.jpg" alt="" />
     <h3>Wood Wheels</h3>
     <p>Daniela Noro</p>
   </a>
