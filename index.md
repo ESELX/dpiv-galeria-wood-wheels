@@ -50,8 +50,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/WoodWheels/">
-    <img src="produtos/WoodWheels/attachments/Brinquedo_01.jpg" alt="" />
+  <a class="gallery-card" href="produtos/Wood Wheels/">
+    <img src="produtos/Wood Wheels/attachments/Brinquedo_01.png" alt="" />
     <h3>Wood Wheels</h3>
     <p>Daniela Noro</p>
   </a>
