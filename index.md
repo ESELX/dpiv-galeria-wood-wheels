@@ -17,7 +17,7 @@ group_number: ""
 
 # Wood Wheels
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> **Brinquedos que cultivam a criatividade e o respeito pela natureza.** 
 
 ## Elementos do Grupo
 
@@ -28,12 +28,10 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+![](attachments/contexto.jpg)
 
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+Resumo, referências e moodboard encontram-se em [contexto.md](contexto.md).
 
 [Ver contexto completo →](contexto.md)
 
@@ -51,7 +49,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/Wood Wheels/">
-    <img src="produtos/Wood Wheels/attachments/Brinquedo_01.png" alt="" />
+    <img src="produtos/Wood Wheels/attachments/3.png" alt="" />
     <h3>Wood Wheels</h3>
     <p>Daniela Noro</p>
   </a>
