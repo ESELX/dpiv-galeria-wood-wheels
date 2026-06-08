@@ -58,7 +58,8 @@ O fabrico das peças é realizado através de corte CNC, tecnologia que garante 
 
 O desenvolvimento do produto foi realizado com recurso ao **Autodesk Fusion 360**, uma ferramenta de modelação 3D e desenho paramétrico que permitiu conceber, testar e otimizar as diferentes peças de encaixe do carrinho. A utilização deste software possibilitou a criação de modelos digitais precisos e a preparação dos respetivos ficheiros técnicos para fabrico.
 
-- Modelo 3D: <iframe  
+- Modelo 3D: 
+<iframe  
 src="https://a360.co/4e2O2kb"  
 width="100%"  
 height="700"  
