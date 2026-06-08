@@ -32,11 +32,11 @@ WOOD WHEELS is a sustainable educational toy made from reclaimed wood from the f
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
 ![Objeto 1](attachments/1.jpg)
 
 - **Objeto 1** — **OVERSCALE CANDLES By B&B Italia**/  **Designer** Jean-Marie Massaud; **Coleção** "Overscale" 2005/ A sua silhueta apresenta curvas suaves e uma configuração alongada que transmite uma sensação de movimento e dinamismo. Esta referência foi adaptada de modo a criar uma peça visualmente apelativa para o universo infantil, mantendo simultaneamente a funcionalidade necessária ao sistema de encaixe do brinquedo.
+
 ![Objeto 2](attachments/22.jpg)
 - **Objeto 2** — **DAWN By Paloma Editions**/ **Designer** Isabella Wilde; **Coleção** "Dawn" 2025/ A peça teve como referência uma forma mais equilibrada e simétrica, marcada por uma cintura estreita e extremidades alargadas. Esta configuração permitiu desenvolver um elemento estrutural capaz de assegurar estabilidade visual e resistência ao conjunto. As curvas suaves contribuem ainda para uma linguagem formal amigável e segura, adequada à utilização por crianças.
 
