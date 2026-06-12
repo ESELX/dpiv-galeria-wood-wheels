@@ -32,7 +32,6 @@ WOOD WHEELS is a sustainable educational toy made from reclaimed wood from the f
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-
 ![Objeto 1](attachments/1.jpg)
 
 - **Objeto 1** — **OVERSCALE CANDLES By B&B Italia**/  **Designer** Jean-Marie Massaud; **Coleção** "Overscale" 2005/ A sua silhueta apresenta curvas suaves e uma configuração alongada que transmite uma sensação de movimento e dinamismo. Esta referência foi adaptada de modo a criar uma peça visualmente apelativa para o universo infantil, mantendo simultaneamente a funcionalidade necessária ao sistema de encaixe do brinquedo.
