@@ -29,8 +29,7 @@ group_number: ""
 
 ## Contexto de Design
 
-![](attachments/contexto.jpg)
-
+![](attachments/contexto001.jpg)
 Resumo, referências e moodboard encontram-se em [contexto.md](contexto.md).
 
 [Ver contexto completo →](contexto.md)

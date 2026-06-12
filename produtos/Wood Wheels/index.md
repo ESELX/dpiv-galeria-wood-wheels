@@ -3,7 +3,7 @@ title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: ../attachments/Brinquedo_01.png
+hero_image: ../attachments/contexto001.jpg
 hero_title: Wood Wheels
 hero_subtitle: Daniela Noro · 2025-26
 hero_height: 80vh
@@ -24,8 +24,6 @@ student_number: ""
 
 >WOOD WHEELS é um carrinho de madeira sustentável que, através de peças de encaixe, estimula a imaginação, o movimento e a aprendizagem.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
@@ -65,7 +63,7 @@ width="100%"
 height="700"  
 frameborder="0">  
 </iframe>
-- Ficheiros: `attachments/`
+
 
 ## Função
 
