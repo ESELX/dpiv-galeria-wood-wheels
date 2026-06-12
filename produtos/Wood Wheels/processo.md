@@ -105,16 +105,16 @@ Como resultado desse processo de refinamento, o carrinho foi reduzido a um total
 ## 4. Pesquisa
 
 ### 4.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-![](attachments/MOODBOARD_02.jpg)
+![](../../attachments/MOODBOARD_02.jpg)
 ![](attachments/Moodboard_01.jpg)
 ![](attachments/moodboard_00.jpg)
 ### 4.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/1.jpg)
+![](../../attachments/1.jpg)
  - **Objeto 1** — **OVERSCALE CANDLES By B&B Italia**/  **Designer** Jean-Marie Massaud; **Coleção** "Overscale" 2005
- ![](attachments/22.jpg)
+ ![](../../attachments/22.jpg)
  -  **Objeto 2** — **DAWN By Paloma Editions**/ **Designer** Isabella Wilde; **Coleção** "Dawn" 2025
 ## 5. Embalagem
 
